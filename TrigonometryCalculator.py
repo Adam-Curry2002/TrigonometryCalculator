@@ -2,6 +2,9 @@ import time
 import sys
 import random
 import math
+"""Uncomment the below for colours to work in windows, don't
+know how to get them to work in Linux atm, 
+maybe a feature to be implemented?"""
 #VVVV Doesn't work in linux VVVV
 #from subprocess import call
 #call(["color","0A"], shell=True)
